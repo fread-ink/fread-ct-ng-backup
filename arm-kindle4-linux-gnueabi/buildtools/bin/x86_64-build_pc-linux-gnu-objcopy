@@ -1,0 +1,2 @@
+#!/bin/bash
+exec '/home/juul/tmp/crosstool-ng-workdir/.build/tools/bin/objcopy' "${@}"
